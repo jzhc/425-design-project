@@ -1,0 +1,10 @@
+# KiCad lock and temporary files
+*.lck
+~*.lck
+*.bak
+*.bck
+*-backups/
+fp-info-cache
+
+# Optional: ignore generated Gerber/drill outputs if you only want source files tracked
+# Gerbers/
