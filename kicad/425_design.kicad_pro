@@ -662,13 +662,26 @@
       {
         "filename": "425_design.kicad_sch",
         "name": "425_design",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "784ca311-01f8-4f25-9dad-727eaff47bc7"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1-2,C1-4,J1,OP_AMP1,R1,SW1,U1-3",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "784ca311-01f8-4f25-9dad-727eaff47bc7",
+      "425_design"
+    ],
+    [
+      "cd1b05ea-4a53-4263-95b3-1de3a4013d27",
+      "teensy"
+    ],
+    [
+      "5819b88e-1bbd-4508-a710-45f3d3d4b2e1",
+      "DAC"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
