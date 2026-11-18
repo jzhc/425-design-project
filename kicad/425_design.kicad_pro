@@ -677,7 +677,7 @@
         "uuid": "784ca311-01f8-4f25-9dad-727eaff47bc7"
       }
     ],
-    "used_designators": "#PWR1-2,C1-5,J1,OP_AMP1,R1,SW1,U1-3",
+    "used_designators": "#PWR1-6,C1-6,J1,OP_AMP1,OP_AMP3,R1,SW1,U1-3",
     "variants": []
   },
   "sheets": [
@@ -692,6 +692,18 @@
     [
       "5819b88e-1bbd-4508-a710-45f3d3d4b2e1",
       "DAC"
+    ],
+    [
+      "751d7879-9fba-4e48-9af8-97eaf0949405",
+      "Amplifier"
+    ],
+    [
+      "9727b6ad-7221-4bbf-86e3-857ab79e9585",
+      "Power Supply"
+    ],
+    [
+      "576f7ead-2cdb-4a0c-8938-811a161e0f42",
+      "User Interface"
     ]
   ],
   "text_variables": {},

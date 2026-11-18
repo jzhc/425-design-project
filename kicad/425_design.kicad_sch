@@ -3364,6 +3364,52 @@
 		)
 	)
 	(sheet
+		(at 243.84 59.69)
+		(size 39.37 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "576f7ead-2cdb-4a0c-8938-811a161e0f42")
+		(property "Sheetname" "User Interface"
+			(at 243.84 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "User_Interface.kicad_sch"
+			(at 243.84 99.6446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "425_design"
+				(path "/784ca311-01f8-4f25-9dad-727eaff47bc7"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 134.62 24.13)
 		(size 21.59 20.32)
 		(exclude_from_sim no)
@@ -3405,6 +3451,98 @@
 			(project "425_design"
 				(path "/784ca311-01f8-4f25-9dad-727eaff47bc7"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 171.45)
+		(size 34.29 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "751d7879-9fba-4e48-9af8-97eaf0949405")
+		(property "Sheetname" "Amplifier"
+			(at 25.4 170.7384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Amplifier.kicad_sch"
+			(at 25.4 194.8946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "425_design"
+				(path "/784ca311-01f8-4f25-9dad-727eaff47bc7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 243.84 16.51)
+		(size 38.1 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9727b6ad-7221-4bbf-86e3-857ab79e9585")
+		(property "Sheetname" "Power Supply"
+			(at 243.84 15.7984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_supply.kicad_sch"
+			(at 243.84 48.8446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "425_design"
+				(path "/784ca311-01f8-4f25-9dad-727eaff47bc7"
+					(page "5")
 				)
 			)
 		)
